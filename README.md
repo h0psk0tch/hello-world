@@ -1,2 +1,2 @@
 # hello-world
-A part of the hello world introduction
+This is where details of the file go
